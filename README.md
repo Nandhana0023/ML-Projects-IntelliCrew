@@ -52,7 +52,7 @@ The dataset is used to train a Logistic Regression model for predicting whether 
 - Nandhana
 - Yagna
 
-## Screenshots
+## Output Screenshots
 - Linear Regression Output
 <img width="596" height="555" alt="Screenshot 2026-06-28 at 4 32 09 PM" src="https://github.com/user-attachments/assets/b7bbbe72-688c-4b2c-bab0-3a9625268294" />
 
